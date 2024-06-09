@@ -1,0 +1,32 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: CS Blog
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to The CS Blog.     
+  socialIcons:
+    - name: email
+      url: 'mailto:some@emailadres.com'
+
+assets:
+  favicon16x16: "img/favicon-16x16.png"
+  favicon32x32: "img/favicon-32x32.png"
+  apple_touch_icon: "img/apple-touch-icon.png"
+
+favicon: "favicon.ico"
+
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 20
