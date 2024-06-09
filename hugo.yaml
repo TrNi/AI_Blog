@@ -8,7 +8,7 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >-
-      Welcome to The CS Blog.     
+      Welcome to The AI Blog.     
   socialIcons:
     - name: email
       url: 'mailto:some@emailadres.com'
