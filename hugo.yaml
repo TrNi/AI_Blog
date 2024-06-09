@@ -4,7 +4,7 @@ title: CS Blog
 theme: PaperMod
 
 params:
-  defaultTheme: dark
+  defaultTheme: light
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >-
