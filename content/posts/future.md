@@ -1,4 +1,4 @@
-
++++ draft = false +++
 Terms:
 * Dynamic range
 * HDR
