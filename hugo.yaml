@@ -9,9 +9,9 @@ params:
     Title: "Hi there \U0001F44B"
     Content: >-
       Welcome to The AI Blog.     
-  socialIcons:
-    - name: email
-      url: 'mailto:some@emailadres.com'
+  #socialIcons:
+  #  - name: email
+  #    url: 'mailto:some@emailadres.com'
 
 assets:
   favicon16x16: "img/favicon-16x16.png"
