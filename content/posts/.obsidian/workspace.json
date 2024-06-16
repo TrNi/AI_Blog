@@ -11,12 +11,8 @@
             "id": "d524341549c96196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "post1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Single and Stereo Pinhole Camera Calibration.md",
+                "file": "Diffusion_Models_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +29,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "26be7b9b00127763",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f786ed51d09c0ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diffusion_Models_1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "108e71fc37511a51",
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single and Stereo Pinhole Camera Calibration.md",
+                "file": "Diffusion_Models_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Single and Stereo Pinhole Camera Calibration.md",
+                "file": "Diffusion_Models_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single and Stereo Pinhole Camera Calibration.md"
+                "file": "Diffusion_Models_1.md"
               }
             }
           }
@@ -159,10 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de57899b7a7ddfa8",
+  "active": "f786ed51d09c0ee1",
   "lastOpenFiles": [
-    "post1.md",
     "Single and Stereo Pinhole Camera Calibration.md",
+    "post1.md",
     "future.md"
   ]
 }
