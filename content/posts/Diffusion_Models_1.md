@@ -35,8 +35,8 @@ Efficacy of this un-supervised diffusion algorithm is demonstrated on datasets s
 
 Notation:
 
-- **$$\mathbf{x}_t$$**: Image at time-step $$t$$
+- **$\mathbf{x}_t$**: Image at time-step $t$
 - **T**: Total steps
-- $$ q(\mathbf{x}_t \mid \mathbf{x}_{t-1}) $$: Forward process: Given an image $$\mathbf{x}_{t-1}$$, add noise to get $$\mathbf{x}_t$$
-- $$ p(\mathbf{x}_{t-1} \mid \mathbf{x}_t) $$: Reverse process: Given a noisy image $$\mathbf{x}_t$$, predict noise of step $$t$$ and subtract it from $$\mathbf{x}_t$$ to get cleaner image $$\mathbf{x}_{t-1}$$
+- $q(\mathbf{x}_t \mid \mathbf{x}_{t-1})$: Forward process: Given an image $\mathbf{x}_{t-1}$, add noise to get $\mathbf{x}_t$
+- $p(\mathbf{x}_{t-1} \mid \mathbf{x}_t)$: Reverse process: Given a noisy image $\mathbf{x}_t$, predict noise of step $t$ and subtract it from $\mathbf{x}_t$ to get cleaner image $\mathbf{x}_{t-1}$
 

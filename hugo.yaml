@@ -11,7 +11,8 @@ params:
       Welcome to The AI Blog.     
   #socialIcons:
   #  - name: email
-  #    url: 'mailto:some@emailadres.com'
+  #    url: 'mailto:some@emailadres.com'  
+  math: true
 
 assets:
   favicon16x16: "img/favicon-16x16.png"
