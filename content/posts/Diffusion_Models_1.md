@@ -37,6 +37,6 @@ Notation:
 
 - **$\mathbf{x}_t$**: Image at time-step $t$
 - **T**: Total steps
-- {{< katex >}}$q(\mathbf{x}_t \mid \mathbf{x}_{t-1})${{< /katex >}} : Forward process: Given an image {{< katex >}}$\mathbf{x}_{t-1}${{< /katex >}} , add noise to get {{< katex >}}$\mathbf{x}_t${{< /katex >}} 
-- {{< katex >}}$p(\mathbf{x}_{t-1} \mid \mathbf{x}_t)${{< /katex >}} : Reverse process: Given a noisy image {{< katex >}}$\mathbf{x}_t${{< /katex >}} , predict noise of step $t$ and subtract it from {{< katex >}}$\mathbf{x}_t${{< /katex >}}  to get cleaner image {{< katex >}}$\mathbf{x}_{t-1}${{< /katex >}} 
+- {{<e>}}$q(\mathbf{x}_t \mid \mathbf{x}_{t-1})${{</e>}} : Forward process: Given an image {{<e>}}$\mathbf{x}_{t-1}${{</e>}} , add noise to get {{<e>}}$\mathbf{x}_t${{</e>}} 
+- {{<e>}}$p(\mathbf{x}_{t-1} \mid \mathbf{x}_t)${{</e>}} : Reverse process: Given a noisy image {{<e>}}$\mathbf{x}_t${{</e>}} , predict noise of step $t$ and subtract it from {{<e>}}$\mathbf{x}_t${{</e>}}  to get cleaner image {{<e>}}$\mathbf{x}_{t-1}${{</e>}} 
 
