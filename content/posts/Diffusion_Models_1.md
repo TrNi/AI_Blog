@@ -28,8 +28,8 @@ Iteratively restore structure in data by predicting noise parameters at each ste
 The authors list contributions of this paper as:
 1. extreme flexibility in model structure, 
 2. exact sampling,
-3. easy multiplication with other distributions, e.g. in order to compute a posterior, and
-4. the model log likelihood, and the probability of individual states, to be cheaply evaluated.
+3. easy multiplication with other distributions, e.g. in order to compute a posterior, and
+4. the model log likelihood, and the probability of individual states, to be cheaply evaluated.
 
 Efficacy of this un-supervised diffusion algorithm is demonstrated on datasets such as a 2D swiss roll, binary sequence, handwritten digits (MNIST), and natural images (CIFAR-10, bark, and dead leaves).
 
