@@ -4,6 +4,7 @@ title: AI Blog
 theme: PaperMod
 
 params:
+  math: true
   defaultTheme: light
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -11,8 +12,7 @@ params:
       Welcome to The AI Blog.     
   #socialIcons:
   #  - name: email
-  #    url: 'mailto:some@emailadres.com'  
-  math: true
+  #    url: 'mailto:some@emailadres.com'    
 
 assets:
   favicon16x16: "img/favicon-16x16.png"
